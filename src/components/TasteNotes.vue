@@ -22,6 +22,7 @@
 .taste {
   padding: 8vh 10vw;
   text-align: center;
+  background-color: #005a31;
 }
 .taste h1 {
   font-size: 12vw;

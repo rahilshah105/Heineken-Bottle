@@ -15,14 +15,19 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  background: linear-gradient(to bottom, #e8f5e9, #c8e6c9);
 }
 #hero-bottle {
-  height: 90vh;
   position: absolute;
+  z-index: 2;
+  height: 90vh;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 10;
+  will-change: transform;
+  backface-visibility: hidden;
 }
+
 .tagline {
   text-align: center;
   z-index: 5;
