@@ -45,6 +45,12 @@ Interactive, animated landing page for Heineken built with Vue.js and GSAP.
 
 ---
 
+## Demo
+
+<video src="https://github.com/rahilshah105/Heineken-Bottle/raw/main/public/demo.mp4" controls width="600"></video>
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -118,6 +124,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-🌐 **Live Demo**: _(add your hosted URL here)_  
 ✉️ **Email**: [superrahil10@gmail.com](mailto:superrahil10@gmail.com)  
 🐙 **GitHub**: [https://github.com/rahilshah105](https://github.com/rahilshah105)
