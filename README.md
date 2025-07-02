@@ -14,7 +14,7 @@ Interactive, animated landing page for Heineken built with Vue.js and GSAP.
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Installation](#installation) 
   - [Development](#development)
   - [Building](#building)
   - [Deployment](#deployment)
